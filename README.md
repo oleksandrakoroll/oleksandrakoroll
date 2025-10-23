@@ -3,6 +3,8 @@
 
 <h2>📑 My CV:</h2>
 
+- [Download my CV (PDF)](./OleksandraKorolCV.pdf)
+
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
