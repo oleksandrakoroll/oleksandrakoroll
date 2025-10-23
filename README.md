@@ -1,11 +1,14 @@
 <h1>Hi, I'm Oleksandra! <br/><a></a>Programmer</a>, <a>Web developer</a>
+<h4>I am a motivated second-year computing student with a strong passion for web development and data analysis. I am eager to apply and expand my skills in programming, problem-solving, and project collaboration. My career aspiration is to grow as a web developer, contributing to innovative projects and continuous learning in the tech industry. Welcome to my portfolio, where you can explore my work and professional journey.</h4>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>📑 My CV:</h2>
+
+<h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
   - [TJava social networking application](https://github.com/Dembem1/Java_SNA)
 
-<h2>👨‍💻 Web Development Projects:</h2>
+<h2>👩🏻‍💻 Web Development Projects:</h2>
 
 - <b>HTML & CSS<b>
   - [Terminal-V Website](https://github.com/oleksandrakoroll/Terminal-V)
